@@ -14,5 +14,4 @@ class Paginas extends Controller{
     }
 
 }//fim da classe Paginas
-
 ?>
